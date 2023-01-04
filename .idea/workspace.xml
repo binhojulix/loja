@@ -5,12 +5,170 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="526cecfa-5471-4ed8-a6e8-8d5e09966270" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_14_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_santana_java_back_end_user_api_0_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_mockwebserver_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okhttp3_okhttp_4_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_squareup_okio_okio_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_commons_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_observation_1_10_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_classes_macos_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_native_macos_osx_x86_64_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_classes_epoll_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_core_1_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_http_1_0_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_3_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_10_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcutil_jdk15on_1_69.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_2_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_8_0_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_5_0_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_6_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_2_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_3_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_7_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_server_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_3_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_3_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_7_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_3_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_6_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/converter/DTOConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/exception/advice/ProductControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/repository/ProductRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/converter/DTOConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/exception/advice/ShoppingControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/model/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/model/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/repository/ReportRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/repository/ReportRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/repository/ShopRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/service/ShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shopping-client/shopping-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-user-api/simple-user-api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simple-user-api/src/main/java/br/com/faluz/productapi/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/converter/DTOConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/exception/advice/UserControllerAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/product-api/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-api/src/main/java/br/com/faluz/productapi/controllers/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-api/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-api/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-api/src/main/java/br/com/faluz/shoppingapi/controllers/ShopController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-api/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/bin/main/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/shopping-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/src/main/java/br/com/faluz/shoppingclient/ShoppingClientApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/src/main/java/br/com/faluz/shoppingclient/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shopping-client/src/test/java/br/com/faluz/shoppingclient/ShoppingClientApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/bin/main/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/simple-user-api/bin/main/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/simple-user-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/src/main/java/br/com/faluz/simpleuserapi/SimpleUserApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/simple-user-api/src/main/java/br/com/faluz/productapi/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/src/main/java/br/com/faluz/simpleuserapi/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple-user-api/src/test/java/br/com/faluz/simpleuserapi/SimpleUserApiApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-api/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/user-api/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/controllers/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-api/src/main/java/br/com/faluz/controllers/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-api/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user-api/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,11 +192,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/fabiojuliodaluz/Documents/GitHub/loja",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.user-api">
     <configuration name="gateway" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
@@ -95,30 +261,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shopping-client" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="br.com.faluz.shoppingapi.ShoppingApiApplication" />
-      <module name="shopping-api" />
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
-        </ENTRIES>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="simple-user-api" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="br.com.faluz.simpleuserapi.SimpleUserApiApplication" />
-      <module name="simple-user-api" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
         <option name="IS_SUBST" value="false" />
@@ -136,6 +282,7 @@
     <configuration name="user-api" type="Application" factoryName="Application">
       <option name="ALTERNATIVE_JRE_PATH" value="corretto-17" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="br.com.faluz.UserApiApplication" />
       <module name="user-api" />
       <extension name="net.ashald.envfile">
         <option name="IS_ENABLED" value="false" />
@@ -155,7 +302,6 @@
       <item itemvalue="Application.gateway" />
       <item itemvalue="Application.product-api" />
       <item itemvalue="Application.shopping-api" />
-      <item itemvalue="Application.shopping-client" />
       <item itemvalue="Application.simple-user-api" />
       <item itemvalue="Application.user-api" />
     </list>
