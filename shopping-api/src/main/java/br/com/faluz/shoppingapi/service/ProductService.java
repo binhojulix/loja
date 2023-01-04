@@ -13,7 +13,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ProductService {
 
-    @Value("${PRODUCT_API_URL:http://localhost:54880}")
+    @Value("${PRODUCT_API_URL:http://localhost:8084}")
     private String productApiURL;
 
     public ProductDTO getProductByIdentifier(String productIdentifier) {

@@ -1,12 +1,14 @@
 package br.com.faluz.productapi.model;
 
-import shoppingclient.dto.CategoryDTO;
+
 
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
+import shoppingclient.dto.CategoryDTO;
+
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
